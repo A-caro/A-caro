@@ -1,5 +1,5 @@
 ### Hi there! my name is Caro and I'm Backend Developer 👩‍💻. 
-I'm a junior developer from Argentina, Buenos Aires. I program in Java.
+I'm a junior developer from Argentina, Buenos Aires. I program in **Java**.
 
 
 
