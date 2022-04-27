@@ -4,9 +4,8 @@
 
 I'm a junior developer from Buenos Aires, Argentina. Art brought me closer to this world since I believe that to be a developer we must have a dose of creativity.
 
-
-
-- Java
+🌱
+- Java 
 - Spring
 - SQL
 - GIT
@@ -23,7 +22,7 @@ I'm a junior developer from Buenos Aires, Argentina. Art brought me closer to th
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on
-- 🌱 I’m currently learning ...
+-  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
