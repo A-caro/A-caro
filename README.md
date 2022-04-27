@@ -6,6 +6,12 @@ I'm a junior developer from Buenos Aires, Argentina. Art brought me closer to th
 
 
 
+- Java
+- Spring
+- SQL
+- GIT
+- MAVEN
+
 
 
 
