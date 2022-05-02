@@ -5,12 +5,6 @@
 🌱 I'm a junior developer from Buenos Aires, Argentina.
 
 
-- Java 
-- Spring
-- SQL
-- GIT
-- MAVEN
-
 
 
 
